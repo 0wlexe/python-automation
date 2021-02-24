@@ -1,2 +1,2 @@
 # python-automation
-Task automation with python 
+A repository for the automation of network tasks using python. 
