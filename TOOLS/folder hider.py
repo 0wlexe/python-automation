@@ -1,4 +1,4 @@
-# Ferramenta para aa ocultaçao de pastas 
+# Ferramenta para a ocultaçao de pastas 
 
 import ctypes
 
