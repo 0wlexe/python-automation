@@ -1,4 +1,3 @@
-
 import requests
 from bs4 import BeautifulSoup
 import operator 
@@ -53,9 +52,3 @@ print(top)
 
 if __name__ == '__main__':
     start("https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar")
-
-
-
-
-
-
