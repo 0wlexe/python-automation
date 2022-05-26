@@ -15,7 +15,7 @@ for i in port:
     # closes connection
     cod = s.connect_ex(('register.br', i))
 
-    # message of open port
+    # Final message
     if cod == 0:
         print(i, "Open!")
     else:
