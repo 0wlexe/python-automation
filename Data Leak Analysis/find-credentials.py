@@ -6,7 +6,7 @@ Last Modification: 01/01/2024
 # Declare empty list to store the credentials
 credentials = []
 linenum = 0
-# Sub string to researched 
+# Sub string to be listed
 subster = "domain.com".lower() 
 # Open file for rt - reading text 
 with open ('leak-example.txt', 'rt') as myfile:
